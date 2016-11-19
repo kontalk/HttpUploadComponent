@@ -1,10 +1,13 @@
-# HttpUploadComponent
+# HttpUploadComponent - EOL
 
-The HttpUploadComponent is a plugin extension to your XMPP server that allows
+**Note:** The HTTP Upload Component is no longer maintained. Both Prosody and Ejabberd now bring their own modules to do the same job. The source code is left online in case someone wants to base their own special solution on top of this.
+
+
+The HttpUploadComponent was a plugin extension to your XMPP server that allows
 users to upload files to a HTTP host and eventually share the link to those
 files.
 
-It runs as a stand alone process on the same host as your XMPP server and
+It ran as a stand alone process on the same host as your XMPP server and
 connects to that server using the [Jabber Component
 Protocol](http://xmpp.org/extensions/xep-0114.html).
 
