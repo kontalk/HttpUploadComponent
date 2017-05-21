@@ -1,5 +1,6 @@
 component_jid: upload.yourdomain.tld
 component_secret: yoursecret
+component_host: localhost
 component_port: 5347
 
 storage_path : ./
